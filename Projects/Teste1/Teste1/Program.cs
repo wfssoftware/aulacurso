@@ -7,7 +7,8 @@ namespace Teste1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine(("Beleza"));
+            Console.WriteLine("Beleza");
+            Console.WriteLine("Beleza DOIS");
         }
     }
 }
